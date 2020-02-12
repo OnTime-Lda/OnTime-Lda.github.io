@@ -150,7 +150,7 @@
 
 @media (max-height: 790px) {
   .resizeImg {
-    width: 350 !important;
+    width: 450 !important;
   }
 
   .size-5{
@@ -182,7 +182,7 @@
 
 
   .resizeImg {
-    width: 400 !important;
+    width: 500 !important;
   }
 
   .nav-border{
