@@ -1,0 +1,219 @@
+.solidBorder{
+  border-radius: 0 !important;
+  border: solid 3px;
+}
+
+.width-50{
+  width: 50% !important;
+}
+
+.width-33{
+  width: 33.33% !important;
+}
+.byeBorder{
+  border:  solid 0px !important;
+}
+
+.text-gold {
+    color: #ffbf00 !important;
+  }
+
+
+.text-gray {
+   color: gray !important;
+  }
+
+.maxWidth {
+  max-width: 100vw !important;
+
+}
+
+.subHead {
+    font-size: 2.75rem;
+    line-height: 2.75rem;
+}
+
+.bigP {
+    font-size: 1.75rem;
+   
+}
+
+.bg-gold{
+
+  background-color: #ffbf00 !important;
+}
+
+.bg-black{
+  background-color: #000000 !important;
+}
+
+.logoSize{
+  width: 100;
+}
+.mt-10{
+  margin-top: 0rem;
+}
+
+.mt-8{
+  margin-top: 2rem;
+}
+
+.mt-landingText{
+  margin-top: -3rem;
+}
+
+.size-5{
+  font-size: 4rem;
+}
+.size-3-5{
+  font-size: 3.5rem;
+}
+.size-6{
+  font-size: 5rem;
+}
+.size-1h{
+  font-size: 1rem;
+}
+
+.font-nav{
+  font-family: nav !important;
+}
+.font-god{
+  font-family: god !important;
+}
+.font-AB{
+  font-family: Arial Black,Arial Bold,Gadget,sans-serif !important; 
+}
+
+.pointerAnimation{
+
+  position: relative;
+  animation: pointerDown 2.5s infinite;
+}
+
+@keyframes pointerDown {
+  0% {top: 0rem;}
+  50% {top: 1rem;}
+  100% {top: 0rem;}
+  
+} 
+
+ 
+@media (min-width: 992px ) {
+  
+  .mt-landingText{
+    margin-top: -1.5rem;
+    padding-left: 4rem;
+  }
+
+  .fullHeightA{
+    height: 100vh;;
+   }
+
+  .size-1h{
+    font-size: 1.2rem;
+  }
+    .subHead {
+      font-size: 3rem;
+    }
+
+    .mt-10{
+      margin-top: 8rem;
+    }
+
+    .mt-8{
+      margin-top: 6rem;
+    }
+
+    .logoSize{
+      width: 150;
+   }
+
+    .bg-gold{
+      background-color: #ffbf00 !important;
+    }
+
+    .mt-logo{
+      margin-top: 0rem;
+    }
+    
+  }
+
+  @font-face {
+    font-family: nav;
+    src: url(../kindel/Kindel_PersonalUse.otf);
+  }
+  @font-face {
+    font-family: god;
+    src: url(../kindel/Comme-Light.ttf);
+  }
+
+@media (max-height: 790px) {
+  .resizeImg {
+    width: 350 !important;
+  }
+
+  .size-5{
+    font-size: 3rem;
+  }
+  .size-3-5{
+    font-size: 2.5rem;
+  }
+
+  .size-6{
+    font-size: 4rem;
+  }
+
+  #landing{
+    margin-left: 0 !important;
+    margin-top: 0 !important;
+    
+  }
+  p{
+    margin-bottom: 0rem !important;
+    }
+
+    .mt-logo{
+      margin-top: 1.8rem;
+    }
+}
+
+@media (max-width: 991.98px) {
+
+
+  .resizeImg {
+    width: 400 !important;
+  }
+
+  .nav-border{
+    border-top: solid #ffbf00;
+    border-bottom: solid #ffbf00;
+  }
+
+
+  .size-5{
+    font-size: 2rem;
+  }
+  .size-3-5{
+    font-size: 1.5rem;
+  }
+
+
+  .size-6{
+    font-size: 3rem;
+  }
+
+  #landing{
+    margin-left: 0 !important;
+    margin-top: 0 !important;
+    text-align: center;
+
+  }
+
+  .iconA{
+    text-align: center ; 
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+  }
+ 
+}
