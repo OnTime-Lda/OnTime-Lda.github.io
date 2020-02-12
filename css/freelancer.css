@@ -162,7 +162,7 @@ sup {
 }
 
 a {
-  color: #ffbf00;
+  color: #0665fd;
   text-decoration: none;
   background-color: transparent;
 }
@@ -10594,7 +10594,7 @@ a.text-dark:hover, a.text-dark:focus {
   height: 0.25rem;
   background-color: black ;
   border-radius: 1rem;
-  border-color: #ffbf00  !important;
+  border-color: #0665fd  !important;
 }
 
 .divider-custom .divider-custom-line:first-child {
@@ -10673,7 +10673,7 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link:hover {
-  color: #ffbf00;
+  color: #0665fd;
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link:active, #mainNav .navbar-nav li.nav-item a.nav-link:focus {
@@ -10681,7 +10681,7 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link.active {
-  color: #ffbf00;
+  color: #0665fd;
 }
 
 #mainNav .navbar-toggler {
@@ -10706,11 +10706,11 @@ a.text-dark:hover, a.text-dark:focus {
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
     color: black;
-    background: #ffbf00;
+    background: #0665fd;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
     color: black;
-    background: #ffbf00;
+    background: #0665fd;
   }
   #mainNav.navbar-shrink {
     padding-top: 0.5rem;
@@ -10771,7 +10771,7 @@ a.text-dark:hover, a.text-dark:focus {
   -webkit-transition: all 0.4s ease-in-out;
   transition: all 0.4s ease-in-out;
   opacity: 0;
-  background-color: #ffbf00;
+  background-color: #0665fd;
   border: solid black;
 }
 
@@ -10866,5 +10866,5 @@ form .row:first-child .floating-label-form-group {
 }
 
 .copyright {
-  background-color: black;
+  background-color: #50096e ;
 }

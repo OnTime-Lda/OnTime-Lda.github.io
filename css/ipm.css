@@ -15,7 +15,7 @@
 }
 
 .text-gold {
-    color: #ffbf00 !important;
+    color: #0665fd !important;
   }
 
 
@@ -40,11 +40,11 @@
 
 .bg-gold{
 
-  background-color: #ffbf00 !important;
+  background-color: #0665fd !important;
 }
 
 .bg-black{
-  background-color: #000000 !important;
+  background-color: #50096e !important;
 }
 
 .logoSize{
@@ -130,7 +130,7 @@
    }
 
     .bg-gold{
-      background-color: #ffbf00 !important;
+      background-color: #0665fd !important;
     }
 
     .mt-logo{
@@ -186,8 +186,8 @@
   }
 
   .nav-border{
-    border-top: solid #ffbf00;
-    border-bottom: solid #ffbf00;
+    border-top: solid #0665fd;
+    border-bottom: solid #0665fd;
   }
 
 
